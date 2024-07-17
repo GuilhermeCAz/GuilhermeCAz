@@ -41,7 +41,7 @@ Continuous Learning: Exploring new technologies and frameworks to enhance my dev
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/guilherme-carvalho-de-azevedo/)
 [![Gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto:guicarvalhoaz@gmailcom)
 [![Roadmap](https://img.shields.io/badge/Roadmap.sh-%23000000?logo=roadmapdotsh)
-](https://roadmap.sh/u/guilhermecaz)
+](https://roadmap.sh/u/guilhermec)
 
 Feel free to reach out if you're interested in collaborating on a project or discussing opportunities!
 
