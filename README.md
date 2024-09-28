@@ -1,32 +1,6 @@
-# Hi there, I'm Guilherme
+# Hello! I'm Guilherme
 
-I'm passionate about building scalable back-end systems and intuitive full-stack applications. Here's a glimpse into what I recently worked on:
-
-## Projects
-
-### Shurl-Django
-
-Description: Shurl is a URL shortening application built with Django. It simplifies sharing long URLs by providing shortened versions.
-
-Key Technologies: Django, Docker, PostgreSQL, Make, OpenAPI, Github Actions.
-
-Features: URL shortening, redirection, user authentication, and statistics tracking (in progress).
-
-### Poké Ball Calculator
-
-Description: Built with Python and Streamlit, this tool calculates the catch rates of Poké Balls for Pokémon in the Scarlet and Violet editions.
-
-Key Technologies: Python, Streamlit, PokéAPI integration, data visualization.
-
-Features: Calculates catch rates based on Pokémon level and various battle and game conditions.
-
-### Desafio Painel e-SUS
-
-Description: Developed a Flask-based REST API to manage patient data from a medical facility, sourced from a CSV file.
-
-Key Technologies: Flask, Docker, REST API development, unit-testing.
-
-Features: API endpoints for querying patient data based on health conditions, dates, and facility units.
+I'm passionate about building scalable back-end systems and intuitive full-stack applications
 
 ## What I'm Excited About
 
@@ -47,6 +21,8 @@ Feel free to reach out if you're interested in collaborating on a project or dis
 
 ## My Stack
 
+![GuilhermeCAz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeCAz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=10)
+
 <!-- markdownlint-disable MD033 -->
 <div align="center">
  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
@@ -62,6 +38,7 @@ Feel free to reach out if you're interested in collaborating on a project or dis
  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
 </div>
+
 <!-- markdownlint-disable MD033 -->
 <!--
 **GuilhermeCAz/GuilhermeCAz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
